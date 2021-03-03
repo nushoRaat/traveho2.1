@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Traveho">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Traveho.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
